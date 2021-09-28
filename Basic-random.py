@@ -8,7 +8,7 @@ print ("Variable getNewInput has data type :", type(getNewInput))
 getNewInput = int(getNewInput)
 print("\nNew data type of varialbe getNewInput :", type(getNewInput))
 
-# function random 
+# function random integer
 import random
 randomNumber = random.randint(0,100)
 print("\nRandom number between 0-100 : ", randomNumber)

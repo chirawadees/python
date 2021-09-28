@@ -1,7 +1,7 @@
 from turtle import *
 import turtle
 
-#set background screen
+#set background screen and size
 backgroundScreen = Screen()
 backgroundScreen.setup(500,500)
 backgroundScreen.bgcolor('#FAFAA7')
